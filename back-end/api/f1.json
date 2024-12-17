@@ -1,0 +1,44 @@
+{
+    "F1": [
+      {
+        "NOME": "Max Verstappen",
+        "TEAM": "Red Bull",
+        "PAESE": "Netherlands",
+        "Podi": 112,
+        "Data_Di_Nascita": "30/09/1997",
+        "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_%28medium_crop%29.jpg/800px-2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_%28medium_crop%29.jpg"
+      },
+      {
+        "NOME": "Charles Leclerc",
+        "TEAM": "Ferrari",
+        "PAESE": "Monaco",
+        "Podi": 43,
+        "Data_Di_Nascita": "16/10/1997",
+        "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3978_by_Stepro_%28cropped2%29.jpg/800px-2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3978_by_Stepro_%28cropped2%29.jpg"
+      },
+      {
+        "NOME": "Valtteri Bottas",
+        "TEAM": "Kick Sauber",
+        "PAESE": "Finlandia",
+        "Podi": 67,
+        "Data_Di_Nascita": "28/08/1989",
+        "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3978_by_Stepro_%28cropped2%29.jpg/800px-2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3978_by_Stepro_%28cropped2%29.jpg"
+      },
+      {
+        "NOME": "Valtteri Bottas",
+        "TEAM": "Kick Sauber",
+        "PAESE": "Finlandia",
+        "Podi": 67,
+        "Data_Di_Nascita": "28/08/1989",
+        "immagine": "https://img.ilcdn.fi/dk-VMr01EXCCrOyogaqtxomG2jQ=/full-fit-in/920x0/img-s3.ilcdn.fi/dc53a25dff1f2f3bd6663dc2df6c7a4dd01b44fdeb64a1b1ce9be0b51b9e58e6.jpg"
+      },
+      {
+        "NOME": "Lewis Hamilton",
+        "TEAM": "Mercedes",
+        "PAESE": "Regno Unito",
+        "Podi": 202,
+        "Data_Di_Nascita": "07/01/1985",
+        "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Lewis_Hamilton_2022_S%C3%A3o_Paulo_Grand_Prix_%2852497848109%29_%28cropped%29.jpg/800px-Lewis_Hamilton_2022_S%C3%A3o_Paulo_Grand_Prix_%2852497848109%29_%28cropped%29.jpg"
+      }
+    ]
+  }
